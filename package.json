@@ -1,0 +1,19 @@
+{
+  "name": "myvuedocs",
+  "version": "0.0.1",
+  "description": "myvuedocs",
+  "main": "index.js",
+  "authors": {
+    "name": "Sumit",
+    "email": "sumit201@webkul.in"
+  },
+  "repository": "myvuedocs/myvuedocs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
