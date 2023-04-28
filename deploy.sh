@@ -16,6 +16,6 @@ git init
 git add -A
 git commit -m 'Deploy docs to GitHub'
 
-git push -f git@github.com:sumitwebkul/testvuedocs.git master:gh-pages
+git push -f git@github.com:sumitwebkul/testvuedocs.git master
 
 cd -
